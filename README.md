@@ -9,7 +9,7 @@
 
 ```apt install git python -y```
 
-```git clone [https://github.com/KasRoudra/k-fuscator](https://github.com/DrMasaDr/MAIL-ACCESS-CHECKER)```
+```git clone https://github.com/DrMasaDr/MAIL-ACCESS-CHECKER```
 
 ```cd MAIL-ACCESS-CHECKER```
 
