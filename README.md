@@ -9,13 +9,11 @@
 
 ```apt install git python -y```
 
-```git clone https://github.com/KasRoudra/k-fuscator```
+```git clone [https://github.com/KasRoudra/k-fuscator](https://github.com/DrMasaDr/MAIL-ACCESS-CHECKER)```
 
-```cd k-fuscator```
+```cd MAIL-ACCESS-CHECKER```
 
-```bash requirements.sh```
-
-```python3 kf.py```
+```python3 DR.MASA Mail Access Checker Proxy Less.py```
 
 
 
